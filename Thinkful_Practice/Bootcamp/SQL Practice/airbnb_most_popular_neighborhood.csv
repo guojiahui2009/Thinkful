@@ -1,0 +1,222 @@
+neighbourhood,total_stays
+Bedford-Stuyvesant,234427.0
+Williamsburg,229041.0
+Harlem,188679.0
+Upper West Side,126711.0
+East Village,124402.0
+Hell's Kitchen,124389.0
+Bushwick,106422.0
+Crown Heights,88959.0
+Upper East Side,88945.0
+East Harlem,88794.0
+Chelsea,75034.0
+Lower East Side,68025.0
+Midtown,65630.0
+West Village,55430.0
+Astoria,50352.0
+Long Island City,47626.0
+Clinton Hill,43398.0
+Greenpoint,42537.0
+Sheepshead Bay,40219.0
+Park Slope,38487.0
+Greenwich Village,37397.0
+Washington Heights,32087.0
+Fort Greene,30774.0
+Flatbush,26336.0
+Chinatown,25769.0
+Prospect-Lefferts Gardens,25699.0
+South Slope,24123.0
+Prospect Heights,24022.0
+East Flatbush,21311.0
+Financial District,20502.0
+Gramercy,20134.0
+Nolita,19439.0
+SoHo,17579.0
+Kips Bay,17046.0
+Woodside,16594.0
+Sunset Park,15538.0
+Theater District,14650.0
+Ridgewood,14149.0
+Ditmars Steinway,14028.0
+Sunnyside,13402.0
+Gowanus,13273.0
+Flushing,13252.0
+Morningside Heights,12682.0
+Carroll Gardens,12366.0
+Cypress Hills,11976.0
+Bay Ridge,11473.0
+Murray Hill,11472.0
+Windsor Terrace,11402.0
+Boerum Hill,10670.0
+East New York,8990.0
+Kensington,8768.0
+Jackson Heights,8626.0
+Inwood,8030.0
+East Elmhurst,7948.0
+Brooklyn Heights,7693.0
+Elmhurst,7434.0
+Little Italy,7006.0
+Tribeca,6846.0
+Jamaica,6646.0
+Corona,6344.0
+Canarsie,6070.0
+NoHo,6016.0
+Roosevelt Island,5516.0
+Cobble Hill,5366.0
+Flatiron District,5012.0
+Maspeth,4712.0
+Downtown Brooklyn,4705.0
+Flatlands,4088.0
+Forest Hills,3980.0
+Midwood,3739.0
+Red Hook,3587.0
+St. George,3564.0
+Two Bridges,3459.0
+Rego Park,3448.0
+DUMBO,3334.0
+Woodhaven,3227.0
+Parkchester,3200.0
+Richmond Hill,3114.0
+Middle Village,3110.0
+Mott Haven,3089.0
+Tompkinsville,2648.0
+Briarwood,2586.0
+Bensonhurst,2577.0
+Springfield Gardens,2554.0
+Ozone Park,2518.0
+Concourse,2431.0
+Allerton,2429.0
+Concord,2299.0
+Brownsville,2281.0
+Arverne,2168.0
+Vinegar Hill,2107.0
+Borough Park,2038.0
+Longwood,1937.0
+Gravesend,1776.0
+Glendale,1582.0
+Hunts Point,1544.0
+Fort Hamilton,1535.0
+Coney Island,1423.0
+Bayside,1409.0
+St. Albans,1396.0
+Rockaway Beach,1391.0
+Civic Center,1352.0
+South Ozone Park,1350.0
+Queens Village,1346.0
+Battery Park City,1342.0
+Norwood,1340.0
+Morris Heights,1304.0
+Williamsbridge,1269.0
+Fordham,1262.0
+Port Morris,1243.0
+University Heights,1191.0
+Kingsbridge,1178.0
+Highbridge,1173.0
+Concourse Village,1091.0
+City Island,1062.0
+Jamaica Estates,1017.0
+Brighton Beach,992.0
+Stapleton,967.0
+Clifton,958.0
+Dyker Heights,886.0
+West Brighton,842.0
+Far Rockaway,772.0
+Wakefield,768.0
+Columbia St,755.0
+Mount Eden,712.0
+Pelham Bay,705.0
+Fresh Meadows,693.0
+Rosedale,693.0
+Bronxdale,662.0
+Pelham Gardens,661.0
+Mount Hope,593.0
+Manhattan Beach,587.0
+Kew Gardens,570.0
+Cambria Heights,546.0
+Shore Acres,541.0
+Claremont Village,525.0
+Stuyvesant Town,505.0
+Baychester,489.0
+East Morrisania,452.0
+Bay Terrace,404.0
+Great Kills,404.0
+Laurelton,399.0
+Navy Yard,395.0
+Soundview,380.0
+Howard Beach,374.0
+Throgs Neck,346.0
+Melrose,341.0
+Schuylerville,336.0
+Kew Gardens Hills,323.0
+Bayswater,310.0
+North Riverdale,300.0
+Tremont,300.0
+Fieldston,291.0
+Douglaston,290.0
+Randall Manor,264.0
+Eltingville,263.0
+Clason Point,262.0
+Van Nest,251.0
+Arrochar,230.0
+New Brighton,224.0
+Arden Heights,212.0
+Bellerose,211.0
+Riverdale,210.0
+College Point,207.0
+Graniteville,205.0
+Bath Beach,188.0
+Dongan Hills,184.0
+Unionport,181.0
+Little Neck,180.0
+Woodlawn,178.0
+Tottenville,164.0
+Silver Lake,160.0
+Mariners Harbor,149.0
+Castleton Corners,146.0
+Bergen Beach,134.0
+Hollis Hills,134.0
+Spuyten Duyvil,128.0
+Eastchester,114.0
+Edenwald,112.0
+Edgemere,107.0
+Marble Hill,107.0
+Richmondtown,102.0
+West Farms,102.0
+Castle Hill,96.0
+Holliswood,96.0
+Huguenot,96.0
+Midland Beach,93.0
+Lighthouse Hill,92.0
+Grymes Hill,88.0
+Mill Basin,88.0
+Hollis,86.0
+South Beach,79.0
+Belmont,77.0
+Morrisania,76.0
+Port Richmond,73.0
+Jamaica Hills,72.0
+Morris Park,68.0
+Westchester Square,60.0
+Co-op City,52.0
+New Dorp Beach,42.0
+New Springville,40.0
+Whitestone,37.0
+Howland Hook,28.0
+Neponsit,28.0
+Todt Hill,28.0
+Belle Harbor,20.0
+Woodrow,14.0
+Emerson Hill,13.0
+Sea Gate,13.0
+Glen Oaks,5.0
+Rosebank,5.0
+Gerritsen Beach,4.0
+Oakwood,4.0
+Westerleigh,2.0
+"Bay Terrace, Staten Island",0.0
+Bull's Head,0.0
+Fort Wadsworth,0.0
+Grant City,0.0
+New Dorp,0.0
+Olinville,0.0
+Rossville,0.0

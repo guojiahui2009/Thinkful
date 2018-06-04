@@ -1,0 +1,11 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+7003697,Furnished room in Astoria apartment,20582832,Kathrine,Queens,Astoria,40.76809554753918,-73.91650618342229,Private room,10000,100,2,2016-02-13,0.07,1,0
+8469166,NOT AVAILABLE,9574884,Ea,Manhattan,East Harlem,40.79358556622101,-73.94109017600695,Entire home/apt,10000,1,3,2015-12-13,0.1,1,365
+13894339,Luxury 1 bedroom apt. -stunning Manhattan views,5143901,Erin,Brooklyn,Greenpoint,40.73259640580512,-73.95738794759377,Entire home/apt,10000,5,5,2017-07-27,0.35,1,0
+20649348,Cute Apt in NYC,71210818,Nicolás,Brooklyn,East New York,40.677608718349376,-73.8726929174819,Private room,10000,16,0,,,1,90
+229728,2 Bedrooms in Sunny Loft & Free Secure Parking,298115,Peter,Brooklyn,Bushwick,40.699232697648355,-73.93269912171554,Private room,9999,2,34,2016-01-05,0.98,1,0
+4737930,Spanish Harlem Apt,1235070,Olson,Manhattan,East Harlem,40.79264477441468,-73.93897607138179,Entire home/apt,9999,5,1,2015-01-02,0.03,1,0
+9528920,"Quiet, Clean, Lit @ LES & Chinatown",3906464,Amy,Manhattan,Lower East Side,40.713553556333174,-73.98506922547853,Private room,9999,99,6,2016-01-01,0.22,1,83
+12955683,Great location Apt,35664632,Duan,Manhattan,Upper West Side,40.80031483973259,-73.96630915835794,Private room,9998,2,2,2016-05-21,0.09,1,365
+2953058,Film Location,1177497,Jessica,Brooklyn,Clinton Hill,40.69137094783615,-73.96722768465814,Entire home/apt,8000,1,1,2016-09-15,0.06,11,360
+2271504,SUPER BOWL Brooklyn Duplex Apt!!,11598359,Jonathan,Brooklyn,Clinton Hill,40.68765774625044,-73.96438584025364,Entire home/apt,6500,1,0,,,1,0
