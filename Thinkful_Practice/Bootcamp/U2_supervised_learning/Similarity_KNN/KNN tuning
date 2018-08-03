@@ -1,0 +1,16 @@
+Let's say we work at a credit card company and we're trying to figure out if people are going to pay their bills on time. We have everyone's purchases, split into four main categories: groceries, dining out, utilities, and entertainment. What are some ways you might use KNN to create this model? What aspects of KNN would be useful? Write up your thoughts in submit a link below.
+
+brute force case: 
+4 numerical features with 1 binary catogorical target
+
+However, from pure intuition, the effect that these categories are unlikely to be equal. A person that spends more dining out than on groceries could be more prone to higher spendings, while someone that has a high entertainment spending habits could be more likely to miss their payments than other categories. On the contrary, the opposite could be said that entertainment and dinign out are expenses that could be cut out relatively easier than that of utilities, thus making such persons more likely to pay if needed. 
+
+It is difficult to tell without data to attest these theories, potentially some features could need to be weighted over others, or some categories combined. 
+
+When testing the effectiveness of respective models, we'd utilize confusion matrix for cross examination on general performance. 
+
+
+precision recall
+
+possibly combining categories
+weighting entertainment more 
